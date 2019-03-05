@@ -20,6 +20,7 @@
 
 #1. Offset (set connection and then compare if it was a good decision)
 #2. Final picture (plus for black / minus for white)
+#test
 
 
 from PIL import Image, ImageDraw, ImageDraw2
